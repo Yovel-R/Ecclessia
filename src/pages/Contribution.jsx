@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Heart, Mail, Hand, DollarSign, BookOpen, Users, Clock, Check } from 'lucide-react';
+import { Heart, Mail, Hand, DollarSign, BookOpen, Users, Clock, Check, Zap, CreditCard} from 'lucide-react';
 import { API_URL } from '../config';
 import './Contribution.css';
 
